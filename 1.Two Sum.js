@@ -12,9 +12,9 @@ function twoSum(arr, target) {
         }
     }
 }
-twoSum([2, 7, 11, 15], target = 9);
+//twoSum([2, 7, 11, 15], target = 9);
 //twoSum([3,2,4], target = 6);
 //twoSum([3,3], target = 6);
 //twoSum([3,2,3], target = 6);
 //twoSum([2,5,5,11], target = 10);
-//twoSum([1,3,4,2], target = 6);
+twoSum([1,3,4,2], target = 6);
